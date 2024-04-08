@@ -4,6 +4,8 @@ Welcome to my Online Shop Website project! This is a Node.js based web applicati
 
 ## Features
 
+Her are some features of this project.
+
 - **User Authentication:** Users can sign up and log in with different user types.
 - **Shopping Cart Functionality:** Regular users can add items to their cart, edit their quantities, and purchase items securely using Stripe.
 - **Order Management:** By purchasing users turn their carts into orders, and admin users can view and edit orders such as "Completed! or Pending...".
@@ -15,6 +17,8 @@ Welcome to my Online Shop Website project! This is a Node.js based web applicati
 - **Error Handling:** Every key part of this project has a backup plan incase there are oopsies!
 
 ## Technologies Used
+
+Here are some of the main tools concepts and technologies I used
 
 - **Node.js**: A JavaScript runtime environment.
 - **Express**: A web application framework for Node.js.
@@ -53,8 +57,8 @@ Have a database named "online-shop".
 Stripe key in  orders.controller.js
 ```
 
-5. Port 3000:
+5. Environment Variables:
 
 ```
-This projest is designed to run in Port 3000, if yours is occupied you need to make changes accordingly.
+This projest is designed to run locally and you would need to make implements accordingly.
 ```
