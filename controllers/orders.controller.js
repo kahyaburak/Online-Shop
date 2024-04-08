@@ -1,5 +1,6 @@
 const stripe = require('stripe')(
-  'sk_test_51OwUOH2NrtJ4ZFlw23Vd9NG79oWHGGWIbFoChOZOPJY1AXGiWfJo85z7jvO5Hpg3tDz7HOlIf8u2P75sYjDFHGzT00ggDff04X'
+  //add your own stripe key here in single brackets like shown below.
+  //'my_stripe_key'
 );
 
 const Order = require('../models/order.model');
